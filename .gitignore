@@ -1,0 +1,10 @@
+/bin/*
+/obj/*
+/Properties/*
+/Content/bin/*
+/Content/Content.mgcb
+/Content/obj/*
+Icon.ico
+playerHead.ico
+OpenTK.dll.config
+LD39.csproj
